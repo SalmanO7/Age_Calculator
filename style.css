@@ -24,9 +24,9 @@ h2 {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    border: 1px solid gray;
     border-radius: 30px;
     padding: 40px;
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.4);
 }
 
 .box {
