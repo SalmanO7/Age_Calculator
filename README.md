@@ -18,7 +18,6 @@ Enter your birthdate in the input field.
 Click the "Calculate" button.
 Your age will be displayed on the screen.
 
-
 ### index.html: The main HTML file containing the structure of the web page.
 ### style.css: The CSS file containing styles for the web page.
 ### script.js: The JavaScript file containing the age calculation logic.
